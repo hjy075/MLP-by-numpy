@@ -16,10 +16,9 @@ optimizer.py\
 cost.py\
   |--MSE: mean square error\
   |--cross entropy\
-  \
-model.py\ 
-  |--two layer full connected\
-  |--multi layer full connected (+regularization: L1, L2)\
+\
+model.py\
+|--multi layer full connected(+regularization: L1, L2)
 \
 preprocessing.py\
-  |--img: faltten, RGB2Gray\
+  |--img: faltten, RGB2Gray
