@@ -13,12 +13,16 @@ optimizer.py\
   |--SGD: standard gradient descent\
   |--adam: Adaptive Moment estimation\ 
   \
+  
+  \
 cost.py\
   |--MSE: mean square error\
   |--cross entropy\
-\
+  \
+  \
 model.py\
 |--multi layer full connected(+regularization: L1, L2)
+\
 \
 preprocessing.py\
   |--img: faltten, RGB2Gray
